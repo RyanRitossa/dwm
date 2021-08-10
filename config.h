@@ -18,7 +18,7 @@ static const char col_gray4[]       = "#ffffff";
 //top bar color
 static const char col_cyan_bg[]     = "#1D2021"; 
 //selelected border color
-static const char col_cyan[]      = "#30b27a"; 
+static const char col_cyan[]      = "#596196"; 
 static const char *colors[][3]      = {
   /*               fg         bg         border   */
   [SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
